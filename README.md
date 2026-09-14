@@ -132,7 +132,8 @@ The cleaned dataset was then structured for analysis using a dimensional model c
 - `DimDate`
 
 ---
-
+Data availability: The original dataset contains approximately 345,000 transaction records and exceeds GitHub's standard file-upload limit. A representative sample is included in this repository for demonstration purposes; the full dataset was used for the analysis.
+---
 ## Tools Used
 
 - **MySQL** — data cleaning, transformation and analytical SQL
